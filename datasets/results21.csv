@@ -1,0 +1,231 @@
+date,Team_1,Team_2,Winner,Margin,Ground
+29-Oct-17,India,New Zealand,India,6 runs,Kanpur
+10-Dec-17,Sri Lanka,India,Sri Lanka,7 wickets,Dharamsala
+13-Dec-17,India,Sri Lanka,India,141 runs,Mohali
+17-Dec-17,India,Sri Lanka,India,8 wickets,Visakhapatnam
+20-Dec-17,New Zealand,West Indies,New Zealand,5 wickets,Whangarei
+23-Dec-17,New Zealand,West Indies,New Zealand,204 runs,Christchurch
+26-Dec-17,New Zealand,West Indies,New Zealand,66 runs,Christchurch
+6-Jan-18,New Zealand,Pakistan,New Zealand,61 runs,Wellington
+9-Jan-18,New Zealand,Pakistan,New Zealand,8 wickets,Nelson
+13-Jan-18,New Zealand,Pakistan,New Zealand,183 runs,Dunedin
+14-Jan-18,England,Australia,England,5 wickets,Melbourne
+16-Jan-18,New Zealand,Pakistan,New Zealand,5 wickets,Hamilton
+19-Jan-18,New Zealand,Pakistan,New Zealand,15 runs,Wellington
+19-Jan-18,England,Australia,England,4 wickets,Brisbane
+19-Jan-18,Bangladesh,Sri Lanka,Bangladesh,163 runs,Dhaka
+21-Jan-18,England,Australia,England,16 runs,Sydney
+25-Jan-18,Sri Lanka,Bangladesh,Sri Lanka,10 wickets,Dhaka
+26-Jan-18,Australia,England,Australia,3 wickets,Adelaide
+27-Jan-18,Sri Lanka,Bangladesh,Sri Lanka,79 runs,Dhaka
+28-Jan-18,England,Australia,England,12 runs,Perth
+1-Feb-18,India,South Africa,India,6 wickets,Durban
+4-Feb-18,India,South Africa,India,9 wickets,Centurion
+7-Feb-18,India,South Africa,India,124 runs,Cape Town
+10-Feb-18,South Africa,India,South Africa,5 wickets,Johannesburg
+13-Feb-18,India,South Africa,India,73 runs,Port Elizabeth
+16-Feb-18,India,South Africa,India,8 wickets,Centurion
+25-Feb-18,New Zealand,England,New Zealand,3 wickets,Hamilton
+28-Feb-18,England,New Zealand,England,6 wickets,Mount Maunganui
+3-Mar-18,England,New Zealand,England,4 runs,Wellington
+7-Mar-18,New Zealand,England,New Zealand,5 wickets,Dunedin
+10-Mar-18,England,New Zealand,England,7 wickets,Christchurch
+15-Mar-18,Afghanistan,West Indies,Afghanistan,3 wickets,Harare
+25-Mar-18,Afghanistan,West Indies,Afghanistan,7 wickets,Harare
+13-Jun-18,England,Australia,England,3 wickets,The Oval
+16-Jun-18,England,Australia,England,38 runs,Cardiff
+19-Jun-18,England,Australia,England,242 runs,Nottingham
+21-Jun-18,England,Australia,England,6 wickets,Chester-le-Street
+24-Jun-18,England,Australia,England,1 wickets,Manchester
+12-Jul-18,India,England,India,8 wickets,Nottingham
+14-Jul-18,England,India,England,86 runs,Lord's
+17-Jul-18,England,India,England,8 wickets,Leeds
+22-Jul-18,Bangladesh,West Indies,Bangladesh,48 runs,Providence
+25-Jul-18,West Indies,Bangladesh,West Indies,3 runs,Providence
+28-Jul-18,Bangladesh,West Indies,Bangladesh,18 runs,Basseterre
+29-Jul-18,South Africa,Sri Lanka,South Africa,5 wickets,Dambulla
+1-Aug-18,South Africa,Sri Lanka,South Africa,4 wickets,Dambulla
+5-Aug-18,South Africa,Sri Lanka,South Africa,78 runs,Pallekele
+8-Aug-18,Sri Lanka,South Africa,Sri Lanka,3 runs,Pallekele
+12-Aug-18,Sri Lanka,South Africa,Sri Lanka,178 runs,Colombo (RPS)
+15-Sep-18,Bangladesh,Sri Lanka,Bangladesh,137 runs,Dubai (DSC)
+17-Sep-18,Afghanistan,Sri Lanka,Afghanistan,91 runs,Abu Dhabi
+19-Sep-18,India,Pakistan,India,8 wickets,Dubai (DSC)
+20-Sep-18,Afghanistan,Bangladesh,Afghanistan,136 runs,Abu Dhabi
+21-Sep-18,India,Bangladesh,India,7 wickets,Dubai (DSC)
+21-Sep-18,Pakistan,Afghanistan,Pakistan,3 wickets,Abu Dhabi
+23-Sep-18,India,Pakistan,India,9 wickets,Dubai (DSC)
+23-Sep-18,Bangladesh,Afghanistan,Bangladesh,3 runs,Abu Dhabi
+26-Sep-18,Bangladesh,Pakistan,Bangladesh,37 runs,Abu Dhabi
+28-Sep-18,India,Bangladesh,India,3 wickets,Dubai (DSC)
+13-Oct-18,England,Sri Lanka,England,31 runs,Dambulla
+17-Oct-18,England,Sri Lanka,England,7 wickets,Pallekele
+20-Oct-18,England,Sri Lanka,England,18 runs,Pallekele
+21-Oct-18,India,West Indies,India,8 wickets,Guwahati
+23-Oct-18,Sri Lanka,England,Sri Lanka,219 runs,Colombo (RPS)
+27-Oct-18,West Indies,India,West Indies,43 runs,Pune
+29-Oct-18,India,West Indies,India,224 runs,Mumbai (BS)
+1-Nov-18,India,West Indies,India,9 wickets,Thiruvananthapuram
+4-Nov-18,South Africa,Australia,South Africa,6 wickets,Perth
+7-Nov-18,New Zealand,Pakistan,New Zealand,47 runs,Abu Dhabi
+9-Nov-18,Australia,South Africa,Australia,7 runs,Adelaide
+9-Nov-18,Pakistan,New Zealand,Pakistan,6 wickets,Abu Dhabi
+11-Nov-18,South Africa,Australia,South Africa,40 runs,Hobart
+9-Dec-18,Bangladesh,West Indies,Bangladesh,5 wickets,Dhaka
+11-Dec-18,West Indies,Bangladesh,West Indies,4 wickets,Dhaka
+14-Dec-18,Bangladesh,West Indies,Bangladesh,8 wickets,Sylhet
+3-Jan-19,New Zealand,Sri Lanka,New Zealand,45 runs,Mount Maunganui
+5-Jan-19,New Zealand,Sri Lanka,New Zealand,21 runs,Mount Maunganui
+8-Jan-19,New Zealand,Sri Lanka,New Zealand,115 runs,Nelson
+12-Jan-19,Australia,India,Australia,34 runs,Sydney
+15-Jan-19,India,Australia,India,6 wickets,Adelaide
+18-Jan-19,India,Australia,India,7 wickets,Melbourne
+19-Jan-19,Pakistan,South Africa,Pakistan,5 wickets,Port Elizabeth
+22-Jan-19,South Africa,Pakistan,South Africa,5 wickets,Durban
+23-Jan-19,India,New Zealand,India,8 wickets,Napier
+25-Jan-19,South Africa,Pakistan,South Africa,13 runs,Centurion
+26-Jan-19,India,New Zealand,India,90 runs,Mount Maunganui
+27-Jan-19,Pakistan,South Africa,Pakistan,8 wickets,Johannesburg
+28-Jan-19,India,New Zealand,India,7 wickets,Mount Maunganui
+30-Jan-19,South Africa,Pakistan,South Africa,7 wickets,Cape Town
+31-Jan-19,New Zealand,India,New Zealand,8 wickets,Hamilton
+3-Feb-19,India,New Zealand,India,35 runs,Wellington
+13-Feb-19,New Zealand,Bangladesh,New Zealand,8 wickets,Napier
+16-Feb-19,New Zealand,Bangladesh,New Zealand,8 wickets,Christchurch
+20-Feb-19,New Zealand,Bangladesh,New Zealand,88 runs,Dunedin
+20-Feb-19,England,West Indies,England,6 wickets,Bridgetown
+22-Feb-19,West Indies,England,West Indies,26 runs,Bridgetown
+27-Feb-19,England,West Indies,England,29 runs,St George's
+2-Mar-19,India,Australia,India,6 wickets,Hyderabad (Deccan)
+2-Mar-19,West Indies,England,West Indies,7 wickets,Gros Islet
+3-Mar-19,South Africa,Sri Lanka,South Africa,8 wickets,Johannesburg
+5-Mar-19,India,Australia,India,8 runs,Nagpur
+6-Mar-19,South Africa,Sri Lanka,South Africa,113 runs,Centurion
+8-Mar-19,Australia,India,Australia,32 runs,Ranchi
+10-Mar-19,Australia,India,Australia,4 wickets,Mohali
+10-Mar-19,South Africa,Sri Lanka,South Africa,71 runs,Durban
+13-Mar-19,Australia,India,Australia,35 runs,Delhi
+13-Mar-19,South Africa,Sri Lanka,South Africa,6 wickets,Port Elizabeth
+16-Mar-19,South Africa,Sri Lanka,South Africa,41 runs,Cape Town
+22-Mar-19,Australia,Pakistan,Australia,8 wickets,Sharjah
+24-Mar-19,Australia,Pakistan,Australia,8 wickets,Sharjah
+27-Mar-19,Australia,Pakistan,Australia,80 runs,Abu Dhabi
+29-Mar-19,Australia,Pakistan,Australia,6 runs,Dubai (DSC)
+31-Mar-19,Australia,Pakistan,Australia,20 runs,Dubai (DSC)
+7-May-19,Bangladesh,West Indies,Bangladesh,8 wickets,Dublin
+11-May-19,England,Pakistan,England,12 runs,Southampton
+13-May-19,Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide)
+14-May-19,England,Pakistan,England,6 wickets,Bristol
+17-May-19,Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide)
+17-May-19,England,Pakistan,England,3 wickets,Nottingham
+19-May-19,England,Pakistan,England,54 runs,Leeds
+30-May-19,England,South Africa,England,104 runs,The Oval
+31-May-19,West Indies,Pakistan,West Indies,7 wickets,Nottingham
+1-Jun-19,New Zealand,Sri Lanka,New Zealand,10 wickets,Cardiff
+1-Jun-19,Australia,Afghanistan,Australia,7 wickets,Bristol
+2-Jun-19,Bangladesh,South Africa,Bangladesh,21 runs,The Oval
+3-Jun-19,Pakistan,England,Pakistan,14 runs,Nottingham
+4-Jun-19,Sri Lanka,Afghanistan,Sri Lanka,34 runs,Cardiff
+5-Jun-19,India,South Africa,India,6 wickets,Southampton
+5-Jun-19,New Zealand,Bangladesh,New Zealand,2 wickets,The Oval
+6-Jun-19,Australia,West Indies,Australia,15 runs,Nottingham
+8-Jun-19,England,Bangladesh,England,106 runs,Cardiff
+8-Jun-19,New Zealand,Afghanistan,New Zealand,7 wickets,Taunton
+9-Jun-19,India,Australia,India,36 runs,The Oval
+12-Jun-19,Australia,Pakistan,Australia,41 runs,Taunton
+14-Jun-19,England,West Indies,England,8 wickets,Southampton
+15-Jun-19,Australia,Sri Lanka,Australia,87 runs,The Oval
+15-Jun-19,South Africa,Afghanistan,South Africa,9 wickets,Cardiff
+16-Jun-19,India,Pakistan,India,89 runs,Manchester
+17-Jun-19,Bangladesh,West Indies,Bangladesh,7 wickets,Taunton
+18-Jun-19,England,Afghanistan,England,150 runs,Manchester
+19-Jun-19,New Zealand,South Africa,New Zealand,4 wickets,Birmingham
+20-Jun-19,Australia,Bangladesh,Australia,48 runs,Nottingham
+21-Jun-19,Sri Lanka,England,Sri Lanka,20 runs,Leeds
+22-Jun-19,India,Afghanistan,India,11 runs,Southampton
+22-Jun-19,New Zealand,West Indies,New Zealand,5 runs,Manchester
+23-Jun-19,Pakistan,South Africa,Pakistan,49 runs,Lord's
+24-Jun-19,Bangladesh,Afghanistan,Bangladesh,62 runs,Southampton
+25-Jun-19,Australia,England,Australia,64 runs,Lord's
+26-Jun-19,Pakistan,New Zealand,Pakistan,6 wickets,Birmingham
+27-Jun-19,India,West Indies,India,125 runs,Manchester
+28-Jun-19,South Africa,Sri Lanka,South Africa,9 wickets,Chester-le-Street
+29-Jun-19,Pakistan,Afghanistan,Pakistan,3 wickets,Leeds
+29-Jun-19,Australia,New Zealand,Australia,86 runs,Lord's
+30-Jun-19,England,India,England,31 runs,Birmingham
+1-Jul-19,Sri Lanka,West Indies,Sri Lanka,23 runs,Chester-le-Street
+2-Jul-19,India,Bangladesh,India,28 runs,Birmingham
+3-Jul-19,England,New Zealand,England,119 runs,Chester-le-Street
+4-Jul-19,West Indies,Afghanistan,West Indies,23 runs,Leeds
+5-Jul-19,Pakistan,Bangladesh,Pakistan,94 runs,Lord's
+6-Jul-19,India,Sri Lanka,India,7 wickets,Leeds
+6-Jul-19,South Africa,Australia,South Africa,10 runs,Manchester
+9-Jul-19,New Zealand,India,New Zealand,18 runs,Manchester
+11-Jul-19,England,Australia,England,8 wickets,Birmingham
+26-Jul-19,Sri Lanka,Bangladesh,Sri Lanka,91 runs,Colombo (RPS)
+28-Jul-19,Sri Lanka,Bangladesh,Sri Lanka,7 wickets,Colombo (RPS)
+31-Jul-19,Sri Lanka,Bangladesh,Sri Lanka,122 runs,Colombo (RPS)
+11-Aug-19,India,West Indies,India,59 runs,Port of Spain
+14-Aug-19,India,West Indies,India,6 wickets,Port of Spain
+30-Sep-19,Pakistan,Sri Lanka,Pakistan,67 runs,Karachi
+2-Oct-19,Pakistan,Sri Lanka,Pakistan,5 wickets,Karachi
+6-Nov-19,West Indies,Afghanistan,West Indies,7 wickets,Lucknow
+9-Nov-19,West Indies,Afghanistan,West Indies,47 runs,Lucknow
+11-Nov-19,West Indies,Afghanistan,West Indies,5 wickets,Lucknow
+15-Dec-19,West Indies,India,West Indies,8 wickets,Chennai
+18-Dec-19,India,West Indies,India,107 runs,Visakhapatnam
+22-Dec-19,India,West Indies,India,4 wickets,Cuttack
+14-Jan-20,Australia,India,Australia,10 wickets,Mumbai
+17-Jan-20,India,Australia,India,36 runs,Rajkot
+19-Jan-20,India,Australia,India,7 wickets,Bengaluru
+4-Feb-20,South Africa,England,South Africa,7 wickets,Cape Town
+5-Feb-20,New Zealand,India,New Zealand,4 wickets,Hamilton
+8-Feb-20,New Zealand,India,New Zealand,22 runs,Auckland
+9-Feb-20,England,South Africa,England,2 wickets,Johannesburg
+11-Feb-20,New Zealand,India,New Zealand,5 wickets,Mount Maunganui
+22-Feb-20,Sri Lanka,West Indies,Sri Lanka,1 wickets,Colombo (SSC)
+26-Feb-20,Sri Lanka,West Indies,Sri Lanka,161 runs,Hambantota
+29-Feb-20,South Africa,Australia,South Africa,74 runs,Paarl
+1-Mar-20,Sri Lanka,West Indies,Sri Lanka,6 runs,Pallekele
+4-Mar-20,South Africa,Australia,South Africa,6 wickets,Bloemfontein
+7-Mar-20,South Africa,Australia,South Africa,6 wickets,Potchefstroom
+13-Mar-20,Australia,New Zealand,Australia,71 runs,Sydney
+11-Sep-20,Australia,England,Australia,19 runs,Manchester
+13-Sep-20,England,Australia,England,24 runs,Manchester
+16-Sep-20,Australia,England,Australia,3 wickets,Manchester
+27-Nov-20,Australia,India,Australia,66 runs,Sydney
+29-Nov-20,Australia,India,Australia,51 runs,Sydney
+2-Dec-20,India,Australia,India,13 runs,Canberra
+20-Jan-21,Bangladesh,West Indies,Bangladesh,6 wickets,Dhaka
+22-Jan-21,Bangladesh,West Indies,Bangladesh,7 wickets,Dhaka
+25-Jan-21,Bangladesh,West Indies,Bangladesh,120 runs,Chattogram
+10-Mar-21,West Indies,Sri Lanka,West Indies,8 wickets,North Sound
+12-Mar-21,West Indies,Sri Lanka,West Indies,5 wickets,North Sound
+14-Mar-21,West Indies,Sri Lanka,West Indies,5 wickets,North Sound
+20-Mar-21,New Zealand,Bangladesh,New Zealand,8 wickets,Dunedin
+23-Mar-21,New Zealand,Bangladesh,New Zealand,5 wickets,Christchurch
+23-Mar-21,India,England,India,66 runs,Pune
+26-Mar-21,New Zealand,Bangladesh,New Zealand,164 runs,Wellington
+26-Mar-21,England,India,England,6 wickets,Pune
+28-Mar-21,India,England,India,7 runs,Pune
+2-Apr-21,Pakistan,South Africa,Pakistan,3 wickets,Centurion
+4-Apr-21,South Africa,Pakistan,South Africa,17 runs,Johannesburg
+7-Apr-21,Pakistan,South Africa,Pakistan,28 runs,Centurion
+23-May-21,Bangladesh,Sri Lanka,Bangladesh,33 runs,Dhaka
+25-May-21,Bangladesh,Sri Lanka,Bangladesh,103 runs,Dhaka
+28-May-21,Sri Lanka,Bangladesh,Sri Lanka,97 runs,Dhaka
+29-Jun-21,England,Sri Lanka,England,5 wickets,Chester-le-Street
+1-Jul-21,England,Sri Lanka,England,8 wickets,The Oval
+8-Jul-21,England,Pakistan,England,9 wickets,Cardiff
+10-Jul-21,England,Pakistan,England,52 runs,Lord's
+13-Jul-21,England,Pakistan,England,3 wickets,Birmingham
+18-Jul-21,India,Sri Lanka,India,7 wickets,Colombo (RPS)
+20-Jul-21,India,Sri Lanka,India,3 wickets,Colombo (RPS)
+20-Jul-21,Australia,West Indies,Australia,133 runs,Bridgetown
+22-Jul-21,West Indies,Australia,West Indies,4 wickets,Bridgetown
+23-Jul-21,Sri Lanka,India,Sri Lanka,3 wickets,Colombo (RPS)
+26-Jul-21,Australia,West Indies,Australia,6 wickets,Bridgetown
+2-Sep-21,Sri Lanka,South Africa,Sri Lanka,14 runs,Colombo (RPS)
+4-Sep-21,South Africa,Sri Lanka,South Africa,67 runs,Colombo (RPS)
+7-Sep-21,Sri Lanka,South Africa,Sri Lanka,78 runs,v Sri Lanka
+19-Jan-22,South Africa,India,South Africa,31 runs,v South Africa
